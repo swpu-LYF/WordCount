@@ -26,7 +26,7 @@ int main(int argc, char* argv[]) {
 	fp = fopen(argv[2],"r");
 		if (fp == NULL)
 		{
-			printf("this file cant open,please change");
+			printf("this file cant be opened,please change");
 			return 0;
 		}
 	int char_num = 0, word_num = 0;

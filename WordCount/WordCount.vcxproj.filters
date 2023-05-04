@@ -18,5 +18,8 @@
     <ClCompile Include="WordCount.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="testSource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
